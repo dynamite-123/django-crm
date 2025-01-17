@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-dhva)n74spaxsbliojbqcvsy=ncfez(g=s6xk@@fy=2*si2yg*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-crm-vug2.onrender.com']
 
 
 # Application definition
